@@ -759,7 +759,7 @@ p {
         line-height: 38px; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
       .hero_content .hero_title {
-        font-size: 40px;
+        font-size: 30px;
         line-height: 60px; } }
     .hero_content .hero_title span {
       display: contents;
