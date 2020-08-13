@@ -765,7 +765,7 @@ p {
       display: contents;
       color: #E84E4E; }
   .hero_content p {
-    font-size: 16px;
+    font-size: 24px;
     color: #fff;
     margin-top: 30px; }
     @media (max-width: 767px) {
